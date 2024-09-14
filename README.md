@@ -40,3 +40,6 @@ In the terminal, try the following commands:
 - `npm test`: Run tests & generate coverage report
 - `npm run dc:up`: Start the stack with Docker Compose
 - `npm run dc:down`: Stop the stack with Docker Compose
+
+
+This is a note
